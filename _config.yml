@@ -1,6 +1,6 @@
 # Site Settings
-title: "bob1bob2bob3bob4"
-subtitle: "Malware Analysis & Reverse Engineering"
+title: "Malware Cake Factory"
+subtitle: "Baking up malware analysis, one sample at a time"
 description: "Deep dives into malware internals, reverse engineering, and threat research."
 url: "https://bob1bob2bob3bob4.github.io"
 baseurl: ""
