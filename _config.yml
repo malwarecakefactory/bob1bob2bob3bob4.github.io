@@ -28,8 +28,7 @@ paginate_path: /page:num/
 
 # Author
 author:
-  name: "malwarecakefactory"
-  bio: "Malware analyst & reverse engineer."
+  name: "Malware Cake Factory"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
