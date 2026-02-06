@@ -2,7 +2,7 @@
 title: "Malware Cake Factory"
 subtitle: "Baking up malware analysis, one sample at a time"
 description: "Deep dives into malware internals, reverse engineering, and threat research."
-url: "https://bob1bob2bob3bob4.github.io"
+url: "https://malwarecakefactory.github.io"
 baseurl: ""
 
 # Theme
@@ -28,12 +28,12 @@ paginate_path: /page:num/
 
 # Author
 author:
-  name: "bob1bob2bob3bob4"
+  name: "malwarecakefactory"
   bio: "Malware analyst & reverse engineer."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bob1bob2bob3bob4"
+      url: "https://github.com/malwarecakefactory"
 
 # Defaults
 defaults:
